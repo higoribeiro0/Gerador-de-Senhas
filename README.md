@@ -6,6 +6,8 @@ um `Gerador de Senhas` foi para se aprofundar em javascript e CSS e nele a pesso
 
 ## 📁 Acesso ao projeto
 
+Live preview: https://lnkd.in/egygeNqU
+
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
 navegador.
